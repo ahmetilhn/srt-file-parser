@@ -1,0 +1,6 @@
+.vscode
+lib
+test
+node_modules
+package-lock.json
+rollup.config.js
