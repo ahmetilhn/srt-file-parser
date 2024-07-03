@@ -4,3 +4,4 @@ test
 node_modules
 package-lock.json
 rollup.config.js
+.babelrc
