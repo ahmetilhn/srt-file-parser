@@ -1,6 +1,6 @@
 # srt-file-parser
 
-File parser for .srt (subtitle) file.
+File parser for .srt (subtitle) file. It allows you to export the content of your .srt file as a string or buffer and retrieve it as objects in the array.
 
 ### Installation
 

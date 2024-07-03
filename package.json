@@ -4,10 +4,13 @@
   "description": "File parser for .srt (subtitle) file.",
   "main": "build/index.js",
   "type": "module",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
+  "keywords": [
+    "srt",
+    "subtitle",
+    "parser",
+    "subtitles",
+    "srt-parser"
+  ],
   "scripts": {
     "build": "rollup -c --environment INCLUDE_DEPS,BUILD:production",
     "dev": "rollup -c -w --environment INCLUDE_DEPS,BUILD:development"
